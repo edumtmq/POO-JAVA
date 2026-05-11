@@ -4,11 +4,6 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        /*
-        cadastrar pedidos
-        listar pedidos
-        calcular total
-         */
 
         ArrayList<Pedido> pedidos = new ArrayList<>();
 
